@@ -72,3 +72,4 @@ crashlytics-build.properties
 **/[Aa]ssets/[Ss]treamingAssets/aa/*
 
 !Prototype-1_Starter-Files.unitypackage
+!Prototype-1_Starter-Files_*.unitypackage
